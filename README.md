@@ -8,7 +8,7 @@ All sounds used were downloaded from freesounds.org under the Creative Commons L
 
 Contents:
 - fourier.m: Matlab script (comments in Spanish)
-- frecHz.mat, nota.mat:  correspondences between frequencies and musical notes
+- frecHz.mat, nota.mat:  correspondences between frequencies and musical notes, used by the .m script
 - .wav files: sound samples 
 - informe.pdf: project report handled (Spanish)
 
